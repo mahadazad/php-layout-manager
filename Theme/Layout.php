@@ -1,11 +1,5 @@
 <?php
 
-require dirname(__FILE__) . '/Providers/Renderer.php';
-require dirname(__FILE__) . '/View/Renderers/Template.php';
-require dirname(__FILE__) . '/View/Abstract.php';
-require dirname(__FILE__) . '/View.php';
-
-
 class Theme_Layout extends Theme_View_Abstract {
     /**
     * @var SplPriorityQueue $script
