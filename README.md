@@ -19,7 +19,6 @@ How to use:
 - Default layout is *main.php*
 - Default theme folder name is *default*
 
-Just include Theme.php file
 
 ```php
 require_once /your_project/php-layout-manager/../inc.php
