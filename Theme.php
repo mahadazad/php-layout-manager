@@ -1,8 +1,5 @@
 <?php
 
-require_once dirname(__FILE__) . '/Theme/Layout.php';
-require_once dirname(__FILE__) . '/Theme/Providers/ThemeAdapter.php';
-
 class Theme implements ThemeAdapter {
 
     /**
